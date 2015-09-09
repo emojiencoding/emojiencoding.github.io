@@ -1,7 +1,7 @@
 html, body {
     margin: 0px;
     padding: 0px;
-    background: #ff0000; /*url('imgs/bowl.png') no-repeat;*/
+    background: #222222; /*url('imgs/bowl.png') no-repeat;*/
 }
 
 
@@ -10,9 +10,9 @@ html, body {
     margin: 0px auto;
     clear: both;
     padding: 0px; /*100px 10px 10px;*/
-    background: #FF0000;
+    background: #333333;
     font-family: Helvetica, Arial, Sans-serif;
-    color: #00B6D6;
+    color: #dbdbdb;
 }
 
 #header{
@@ -32,7 +32,7 @@ html, body {
 }
 
 #nav a {
-    color: #00B6D6;
+    color: #929292;
     background: transparent;
     text-decoration: none;
 }
@@ -74,7 +74,7 @@ html, body {
 /*div {background: red}*/
 
 h1 {
-    color: #00B6D6;
+    color: #c7b299;
     font-size: 60px;
     line-height: 50px;
     margin: 0px;
