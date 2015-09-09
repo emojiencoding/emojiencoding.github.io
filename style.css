@@ -32,7 +32,7 @@ html, body {
 }
 
 #nav a {
-    color: #929292;
+    color: #00B6D6;
     background: transparent;
     text-decoration: none;
 }
@@ -74,7 +74,7 @@ html, body {
 /*div {background: red}*/
 
 h1 {
-    color: #c7b299;
+    color: #00B6D6;
     font-size: 60px;
     line-height: 50px;
     margin: 0px;
