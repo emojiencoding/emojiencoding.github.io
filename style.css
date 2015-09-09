@@ -1,7 +1,7 @@
 html, body {
     margin: 0px;
     padding: 0px;
-    background: ##00B6D6:; /*url('imgs/bowl.png') no-repeat;*/
+    background: #00B6D6:; /*url('imgs/bowl.png') no-repeat;*/
 }
 
 
@@ -10,7 +10,7 @@ html, body {
     margin: 0px auto;
     clear: both;
     padding: 0px; /*100px 10px 10px;*/
-    background: ##00B6D6:;
+    background: #00B6D6:;
     font-family: Helvetica, Arial, Sans-serif;
     color: #dbdbdb;
 }
